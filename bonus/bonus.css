@@ -1,0 +1,27 @@
+html{
+    scroll-behavior: smooth;
+}
+
+
+
+ul{
+    text-align: right;
+    position: relative;
+    background-color: red;
+}
+
+
+ul li{
+    display: inline;
+    list-style: none;
+    text-align: right;
+}
+
+li a{
+    background-color: white;
+    border-radius: 50%;
+    font-size: 20px;
+    padding: 5px 10px;
+    text-decoration: none;
+    color: black;
+}

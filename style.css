@@ -42,15 +42,7 @@ h2{
     top: 50%;
     left:50%;
     transform: translate(-370px, 200px);
-    width: 50%;
-}
-
-h3{ 
-    position: absolute;
-    top: 50%;
-    left:50%;
-    transform: translate(-185px, 250px);
-    width: 50%;
+    text-align: center;
 }
 
 .text-yellow{
@@ -59,6 +51,7 @@ h3{
 
 .text-green{
     color: green;
+
 }
 
 
