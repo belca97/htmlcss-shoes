@@ -6,8 +6,10 @@ html{
 
 ul{
     text-align: right;
-    position: relative;
-    background-color: red;
+    position: fixed;
+    top: 0;
+    right: 10px;
+    z-index: 3;
 }
 
 

@@ -30,7 +30,11 @@
     background-color: yellow;
 }
 
-div > img{
+.content{
+    width: 100vw;
+}
+
+.content > img{
     position: absolute;
     top: 50%;
     left: 50%;
@@ -53,5 +57,3 @@ h2{
     color: green;
 
 }
-
-
