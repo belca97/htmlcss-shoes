@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Rubik Mono One', sans-serif;
+    font-size: 50px;
+}
+
+
+.container {
+    width: 100%;
+    margin: auto;
+}
+
+.box {
+    height: 100vh;
+    width: 100%;
+    position: relative;
+}
+
+#red{
+    background-color: red;
+}
+
+#green{
+    background-color: green;
+}
+
+#yellow{
+    background-color: yellow;
+}
+
+div > img{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -60%);
+}
+
+h2{
+    position: absolute;
+    top: 50%;
+    left:50%;
+    transform: translate(-370px, 200px);
+    width: 50%;
+}
+
+h3{ 
+    position: absolute;
+    top: 50%;
+    left:50%;
+    transform: translate(-185px, 250px);
+    width: 50%;
+}
+
+.text-yellow{
+    color: yellow
+}
+
+.text-green{
+    color: green;
+}
+
+
